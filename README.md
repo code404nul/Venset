@@ -1,6 +1,6 @@
 # Ventset: Raw & Real Conversations with an Empathic AI
 
-**Ventset** est un dataset unique de dialogues entre des humains et une IA conçue pour répondre avec empathie, humour ou brutalité bienveillante. Ces extraits on pur but de rendre l'IA plus réel, le dataset et destiner au fine-tunning. 
+**Ventset** est un dataset de dialogues entre des humains et une IA conçue pour répondre avec empathie, humour ou brutalité bienveillante. Ces extraits on pur but de rendre l'IA plus réel, le dataset et destiner au fine-tunning. 
 
 ## ⚠️ : Ce dataset n'est pas du tout fini, sa création vient de commencer !
 
