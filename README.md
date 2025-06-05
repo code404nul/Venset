@@ -4,6 +4,9 @@
 
 ## ⚠️ : Ce dataset n'est pas du tout fini, sa création vient de commencer !
 
+## ⚠️ : certaines phrases peuvent être mal interprété. je ne suis pas psychologue. je ne suis pas responsable de la mauvaise interprétation. Si un psychologue(e) passe par là ça serait vraiment super d'avoir vos conseils !
+
+
 ## 📦 Format
 
 Le dataset est structuré en CSV avec les colonnes suivantes :
