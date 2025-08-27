@@ -6,6 +6,7 @@
 
 ## ⚠️ : certaines phrases peuvent être mal interprété. je ne suis pas psychologue. je ne suis pas responsable de la mauvaise interprétation. Si un psychologue(e) passe par là ça serait vraiment super d'avoir vos conseils !
 
+## ⚠️ : Si vous voulez generez des données, veuiller telecharger ollama, et utiliser le model que vous voulez, mais modofiez donc AI_generation_cc.py
 
 ## 📦 Format
 
