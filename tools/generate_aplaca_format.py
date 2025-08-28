@@ -1,6 +1,6 @@
 import csv
 import json
-from emotion import emotion_classify
+from tools.emotion import emotion_classify
 
 input_file = 'dataset.csv'
 output_file = 'dataset_alpaca.jsonl'
